@@ -1,4 +1,3 @@
-/* eslint-disable no-unused-vars */
 import React from "react";
 import {
   Route,
@@ -14,7 +13,6 @@ import NotFoundPage from "./pages/404";
 
 const App = () =>  {
     return (
-        // eslint-disable-next-line react/jsx-no-undef
         <Router>
         <div>
           <h1>Software Engineering Practice Evidence Repository (SEPER)</h1>
